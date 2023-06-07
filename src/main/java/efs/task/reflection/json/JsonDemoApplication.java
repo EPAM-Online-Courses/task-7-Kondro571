@@ -1,3 +1,5 @@
+package efs.task.reflection.json;
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.nio.charset.StandardCharsets;
