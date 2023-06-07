@@ -1,6 +1,3 @@
-package efs.task.reflection;
-
-
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -10,7 +7,6 @@ import java.util.HashSet;
 import java.util.Set;
 public class ClassInspector {
 
-    
     /**
      * Metoda powinna wyszukać we wszystkich zadeklarowanych przez klasę polach te które oznaczone
      * są adnotacją podaną jako drugi parametr wywołania tej metody. Wynik powinien zawierać tylko

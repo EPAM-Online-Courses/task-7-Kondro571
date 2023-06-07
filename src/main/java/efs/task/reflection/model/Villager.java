@@ -1,5 +1,3 @@
-package efs.task.reflection.model;
-
 import efs.task.reflection.annotations.NotNull;
 import efs.task.reflection.annotations.BuilderProperty;
 /**
